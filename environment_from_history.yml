@@ -1,0 +1,14 @@
+name: course_project
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - scikit-learn
+  - py-xgboost
+  - pandas
+  - python=3.10
+  - matplotlib
+  - numpy
+  - ipykernel
+  - scipy
+prefix: /opt/miniconda3/envs/course_project
