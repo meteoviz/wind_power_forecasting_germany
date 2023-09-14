@@ -11,4 +11,11 @@ dependencies:
   - numpy
   - ipykernel
   - scipy
+  - sympy
+  - cdsapi
+  - netcdf4
+  - bottleneck
+  - xarray
+  - cartopy
+  - lxml
 prefix: /opt/miniconda3/envs/course_project
